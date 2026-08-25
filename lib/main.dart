@@ -10,7 +10,7 @@ class PeerFeedApp extends StatelessWidget{
   @override Widget build(BuildContext context){
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'PeerFeed',
+      title: 'PeerFeed_Sowmya',
       home: const SplashScreen(),
     );
   }
